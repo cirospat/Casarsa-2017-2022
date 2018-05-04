@@ -21,23 +21,23 @@ Programma di Casarsa della Delizia 2017-2022
     cap3
     cap4
 
-.. _h691a3744a45448325245757fd4852:
+.. _h5958386b22711401b7d3e1b617e2e:
 
-COSA VOGLIAMO
+Cosa vogliamo
 *************
 
 Quello che vogliamo è un comune che guarda con fiducia al futuro, che non si chiude in sé stesso e nelle proprie paure ma che è pronto a raccogliere nuove sfide; un comune a misura di famiglia, solidale e inclusivo, che guarda con orgoglio alle proprie tradizioni e alla propria storia ma che è pronto a rinnovarsi e a proiettarsi nel futuro. Un comune dove la sostenibilità non è solo uno slogan, ma è lo stile che ispira tutte le azioni pubbliche. Un comune che valorizza le persone e le loro capacità non all’insegna dell’io, ma del noi e della comunità. Un comune dove le cose si fanno e si decidono insieme, un comune dove si sta bene e si cresce insieme agli altri.
 
-.. _h4a426d371e645e2216b5d3436117531:
+.. _h1b3f3d201c7c562106e3b6eb563030:
 
-IN COSA CREDIAMO
+In cosa crediamo
 ****************
 
 Crediamo nella legalità, nei valori fondamentali della democrazia, del rispetto delle libertà individuali, del pluralismo e della partecipazione. Crediamo nella partecipazione attiva dei cittadini e ci ispiriamo agli ideali della pace, della solidarietà, del volontariato, dell’accoglienza, dell’equità. Nell’ottica della sussidiarietà riteniamo che ogni cittadina e ogni cittadino possa concorrere alla costruzione del bene comune.
 
-.. _h6865385d774156921c744940621825:
+.. _h685f7c5f6c62365e23327f3b73541623:
 
-COME AMMINISTREREMO
+Come amministreremo
 *******************
 
 Ci confronteremo costantemente con la gente e privilegeremo il dialogo; quando saremo chiamati a decidere lo faremo nell’interesse della collettività. Vogliamo che la partecipazione sia al centro della nostra azione politica: i cittadini devono essere messi a parte delle scelte amministrative e devono poter esprimere la propria opinione, anche con strumenti di codecisione. In questo senso va valorizzato l’apporto di tutti, in particolare dell’Osservatorio Sociale, delle associazioni, del mondo del volontariato, delle aggregazioni giovanili. Vogliamo riproporre le assemblee della cittadinanza, al fine di metterla a parte dei progetti politici e amministrativi più importanti. Continueremo a organizzare tavoli di confronto con le associazioni sportive e culturali, le istituzioni educative e gli operatori economici, al fine di condividere il percorso di crescita del territorio.
@@ -46,9 +46,9 @@ Lavoreremo in rete con gli altri Comuni, soprattutto con quelli dell’Unione Te
 
 Sceglieremo la sobrietà in tutte le azioni e continueremo a prodigarci per evitare gli sprechi di denaro pubblico e massimizzare i benefici di tutte le azioni intraprese. Ci adopereremo affinché gli equilibri di bilancio si trovino contenendo al minimo la pressione fiscale e tributaria sui cittadini contribuenti. Agiremo in maniera trasparente: le nuove tecnologie potranno favorire la comunicazione con i cittadini.
 
-.. _h7403a14c52716e247412b25683b6b:
+.. _h23693d56142b803a6934135fc27d42:
 
-COSA FAREMO
+Cosa faremo
 ***********
 
 Vigileremo sulla \ |STYLE0|\  e sulla \ |STYLE1|\  del nostro comune. Promuoveremo la cooperazione e il coordinamento tra le istituzioni e le forze dell'ordine preposte al controllo del territorio e alla sicurezza e lavoreremo con gli altri Comuni. Riproporremo gli incontri periodici di informazione e programmazione tra Polizia Municipale, Carabinieri e Polizia Ferroviaria. Si promuoverà la cultura del controllo del vicinato, attivando percorsi di solidarietà, socialità e mutuo aiuto. Potenzieremo ancora la rete comunale di videosorveglianza. Continueremo a promuovere la cultura della legalità, in primis nelle giovani generazioni.
@@ -77,7 +77,7 @@ La \ |STYLE12|\  continuerà a essere al centro delle nostre attenzioni. Si pros
 
 Sarà garantito il sostegno alle istituzioni private che si occupano della proposta scolastica nella fascia 0-6 anni; nel caso in cui le attuali strutture non fossero più adeguate a soddisfare la domanda, si potrà verificare la possibilità di aprire una sezione statale di scuola dell'infanzia o alla riorganizzazione di una di quelle attuali, sempre nel rispetto dei valori fondativi delle strutture stesse e della concertazione con gli enti coinvolti.
 
-Vogliamo che Casarsa continui a esser una comunità accogliente: la Consulta delle cittadine e dei cittadini immigrati favorirà l’\ |STYLE13|\ , attraverso il confronto e dialogo e la promozione di iniziative di reciproca conoscenza, per lo sviluppo della cultura del rispetto, della legalità, della solidarietà, della pace e della non-violenza.
+Vogliamo che Casarsa continui ad essere una comunità accogliente: la Consulta delle cittadine e dei cittadini immigrati favorirà l’\ |STYLE13|\ , attraverso il confronto e dialogo e la promozione di iniziative di reciproca conoscenza, per lo sviluppo della cultura del rispetto, della legalità, della solidarietà, della pace e della non-violenza.
 
 La nostra Amministrazione si è contraddistinta nell’impegno per la \ |STYLE14|\  e vogliamo che queste progettualità siano potenziate: il Comune può avere un ruolo propulsore nella promozione di stili di vita sani, quali l'educazione al movimento e alla pratica sportiva e alla corretta alimentazione, e noi questo compito vogliamo portarlo avanti. Continueremo a proporre corsi di pronto soccorso e BLS, incrementeremo il numero di defibrillatori presenti e delle persone capaci di utilizzarlo, in maniera tale che il nostro diventi sempre di più un comune cardioprotetto. In collaborazione con l’Azienda Sanitaria 5, daremo compimento al progetto di apertura a Casarsa, nell’edificio dell’ex sede comunale di piazza IV novembre, del \ |STYLE15|\  che aggregherà medici di famiglia, specialisti e uffici sanitari e assistenziali: i nostri cittadini trarranno ampi benefici da questa nuova struttura, che offrirà un servizio all’avanguardia, a stretto contatto con le esigenze delle persone e con ampia facilità di accesso in termini di orari e giornate di apertura.
 
