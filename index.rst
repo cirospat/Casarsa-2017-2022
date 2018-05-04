@@ -38,7 +38,7 @@ Al di sotto dell'indice **sono riportate le motivazioni di questo lavoro**, che 
 
 .. _hb4e73183348561b68451806f563477:
 
-Titoli di coda
+Le motivazioni di questo lavoro
 **************
 
 Caro lettore o cara lettrice di questo documento, mi chiamo `Matteo Troìa 
