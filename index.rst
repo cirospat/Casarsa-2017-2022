@@ -16,7 +16,8 @@ Programma di Casarsa della Delizia 2017-2022
 Introduzione
 ************
 
-Quello che segue è il Programma Amministrativo per il quinquennio 2017-2022 dell'attuale Amministrazione Comunale di Casarsa della Delizia. Tale programma, è stato interamente ripreso dal sito *www.cittadiniprotagonisti.com*, che ne riporta il testo completo. Il lettore che dovesse notare qualche errore nella documentazione qui riportata è pregato di segnalarlo a questa `mail 
+Quello che segue è il Programma Amministrativo per il quinquennio 2017-2022 dell'attuale Amministrazione Comunale di Casarsa della Delizia. Tale programma, è stato interamente ripreso dal sito *www.cittadiniprotagonisti.com*, che ne riporta il testo completo. 
+Il lettore che dovesse notare qualche errore nella documentazione qui riportata è pregato di segnalarlo a questa `mail 
 <mailto:matteotroia@icloud.com>`_.
 
 
