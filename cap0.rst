@@ -1,4 +1,5 @@
 INTRODUZIONE AL PROGRAMMA
+*************************
 
 Cosa vogliamo
 *************
