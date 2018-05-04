@@ -16,7 +16,8 @@ Programma di Casarsa della Delizia 2017-2022
 Introduzione
 ************
 
-Quello che vogliamo è un comune che guarda con fiducia al futuro, che non si chiude in sé stesso e nelle proprie paure ma che è pronto a raccogliere nuove sfide; un comune a misura di famiglia, solidale e inclusivo, che guarda con orgoglio alle proprie tradizioni e alla propria storia ma che è pronto a rinnovarsi e a proiettarsi nel futuro. Un comune dove la sostenibilità non è solo uno slogan, ma è lo stile che ispira tutte le azioni pubbliche. Un comune che valorizza le persone e le loro capacità non all’insegna dell’io, ma del noi e della comunità. Un comune dove le cose si fanno e si decidono insieme, un comune dove si sta bene e si cresce insieme agli altri.
+Quello che segue è il Programma Amministrativo per il quinquennio 2017-2022 dell'attuale Amministrazione Comunale di Casarsa della Delizia. Tale programma, è stato interamente ripreso dal sito *www.cittadiniprotagonisti.com*, che ne riporta il testo completo. Il lettore che dovesse notare qualche errore nella documentazione qui riportata è pregato di segnalarlo a questa `mail 
+<mailto:matteotroia@icloud.com/>`_.
 
 
 .. toctree::  
