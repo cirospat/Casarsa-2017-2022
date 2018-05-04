@@ -59,9 +59,12 @@ Il programma amminsitrativo qui riportato, non è in realtà un semplice *"copia
 Infine, mi preme sottolineare come il portale qui presentanto **segue i nuovi standard grafici proposti dal Governo Italiano**, ed in particolare le nuove `Linee guida di design dei contenuti della Pubblica Amministrazione <https://designers.italia.it/guide/>`_, un insieme di regole di *design* verso cui le amminsitrazioni dovrebbero adeguarsi. Tutti i documenti formattatti secondo questi criteri, confluiscono in un portale comune per tutte le pubbliche amministrazioni italiane, chiamato `Docs Italia <https://docs.developers.italia.it/che-cos-e-docs-italia/>`_  
 
 *Buona lettura!*
+
 **E viva la rivoluzione digitale!**
-*
+
+
 Matteo Troìa
+
 5 maggio 2018
 
 
