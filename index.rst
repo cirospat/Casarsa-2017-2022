@@ -41,24 +41,26 @@ Al di sotto dell'indice **sono riportate le motivazioni di questo lavoro**, che 
 Titoli di coda
 **************
 
-Caro lettore o cara lettrice di questo documento, mi chiamo Matteo Troìa e sono l'autore di questo piccolo lavoro. Di che si tratta? Non è altro che un "copia&incolla" del Programma Amministrativo del mio comune sul portale ReadTheDocs, il portale sul quale stai leggendo queste parole.
+Caro lettore o cara lettrice di questo documento, mi chiamo `Matteo Troìa 
+<http://www.matteotroia.it>`_ e sono l'autore di questo piccolo lavoro. Di che si tratta? Non è altro che un *"copia&incolla"* del Programma Amministrativo del mio comune sul portale ReadTheDocs, il portale dal quale stai leggendo queste parole.
 
 L'idea di trasferire il programma amminsitrativo su questo portale, nasce da un `post 
-<https://medium.com/team-per-la-trasformazione-digitale/docs-italia-open-government-collaborazione-pubblica-amministrazione-progetti-linguaggio-b89ff330e21b>`_. scritto dai ragazzi del Team Digitale, organo di Governo deputato alla digitalizzazione del nostro Paese. In questo post, l'invito è quello di *"cambiare il linguaggio attraverso cui si costruiscono le linee guida e la documentazione dei progetti della Pubblica Amministrazione".*
+<https://medium.com/team-per-la-trasformazione-digitale/docs-italia-open-government-collaborazione-pubblica-amministrazione-progetti-linguaggio-b89ff330e21b>`_ scritto dai ragazzi del `Team Digitale 
+<https://teamdigitale.governo.it>`_, organo di Governo deputato alla digitalizzazione del nostro Paese. In questo post, l'invito è quello di *"cambiare il linguaggio attraverso cui si costruiscono le linee guida e la documentazione dei progetti della Pubblica Amministrazione".*
 
-Qualche mese fa, trovandomi a Roma per lavoro, ho avuto l'occasione di collabroare con una squadra di *tech writer*: persone specializzate nella scrittura di documenti tecnici. Ciò che loro mi hanno insegnato mescolato al rigore scientifico a cui sono abituato in ambito accademico, mi hanno spinto a costruire questo piccolo "manufatto". 
+Qualche mese fa, trovandomi a Roma per lavoro, ho avuto l'occasione di collaborare con una squadra di *tech writer*: persone specializzate nella scrittura di documenti tecnici. Ciò che ho imparato da loro, mescolato al rigore scientifico a cui sono abituato in ambito accademico, mi ha spinto a costruire questo piccolo "manufatto". 
 
-Credo che vada nella direzione giusta, ovvero verso una Pubblica Amministazione realmente moderna, realmente efficace, realmente al passo coi tempi. 
+Credo che vada nella direzione giusta, ovvero verso una Pubblica Amministazione *realmente* moderna, *realmente* efficace, *realmente* al passo coi tempi. 
 
-Il programma amminsitrativo qui riportato, non è in realtà un semplice "copia&incolla", ma diventa, grazie a questa piattaforma, un "testo vivo", una sorta di sito web navigabile. Il lettore infatti, potrà sfruttare il motore di ricerca incorporato per cercare determinati termini, oppure potrà comodamente naviagare nella specifica sezione di suo interesse.  Non solo: il portale è *responsive*, ed è quindi capace di adattarsi a qualsiasi dispositivo con cui si accede a questo documento. 
+Il programma amminsitrativo qui riportato, non è in realtà un semplice *"copia&incolla"*, ma **diventa**, grazie a questa piattaforma, **un "testo vivo", una sorta di sito web navigabile.** Il lettore infatti, potrà sfruttare il motore di ricerca incorporato per cercare determinati termini, oppure potrà comodamente naviagare nella specifica sezione di suo interesse.  Non solo: il portale è *responsive*, ed è quindi capace di adattarsi a qualsiasi dispositivo con cui si accede a questo documento. 
 
-L'idea è quindi di accelerare la trasformazione digitale della mia Pubblica Amministrazione, mostrando come si possa, con pochi e relativamente semplici passaggi, trasformare un programma amminsitrativo dimenticato in chissà che nodo della rete, in un luogo di confronto continuo, e di comunicazione costante con i cittadini, che tramite questo portale possono reperire facilmente le informazioni. 
+**L'idea è quindi di accelerare la trasformazione digitale della mia Pubblica Amministrazione**, mostrando come si possa, con pochi e relativamente semplici passaggi, trasformare un programma amminsitrativo dimenticato in chissà che nodo della rete, **in un luogo di confronto continuo e di comunicazione costante con i cittadini**, che tramite questo portale possono reperire facilmente le informazioni (ed eventualmente anche interagire sui singoli punti del programma). 
 
-Il portale qui presentanto, segue i nuovi standard proposti dal Governo Italiano, ed in particolare le nuove `Linee guida di design dei contenuti della Pubblica Amministrazione <https://design-italia.readthedocs.io/it/stable/doc/content-design.html>`_, uno standard al quale le amminsitrazioni sono tenute ad adeguarsi. Tutti i documenti formattatti secondo questi criteri, confluiscono in un portale comune per tutte le pubbliche amminsitrazioni italiane, chiamato `Docs Italia <https://docs.developers.italia.it/che-cos-e-docs-italia/>`_  
+Infine, mi preme sottolineare come il portale qui presentanto **segue i nuovi standard grafici proposti dal Governo Italiano**, ed in particolare le nuove `Linee guida di design dei contenuti della Pubblica Amministrazione <https://design-italia.readthedocs.io/it/stable/doc/content-design.html>`_, un insieme di regole di *design* verso cui le amminsitrazioni dovrebbero adeguarsi. Tutti i documenti formattatti secondo questi criteri, confluiscono in un portale comune per tutte le pubbliche amministrazioni italiane, chiamato `Docs Italia <https://docs.developers.italia.it/che-cos-e-docs-italia/>`_  
 
-Buona lettura! 
-E viva la rivoluzione digitale!
-_ _ _
+*Buona lettura!*
+**E viva la rivoluzione digitale!**
+*
 Matteo Troìa
 5 maggio 2018
 
