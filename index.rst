@@ -1,4 +1,11 @@
 
+|REPLACE1|
+
+.. _h2c1d74277104e41780968148427e:
+
+
+
+
 .. _h1379577d59202d726d6907fb23143f:
 
 Programma di Casarsa 2017-2022
@@ -219,3 +226,9 @@ Continueremo infine a tenere alta l’attenzione e ad incalzare le autorità com
 .. |STYLE42| replace:: **acqua**
 
 .. |STYLE43| replace:: **aree militari abbandonate**
+
+
+.. |REPLACE1| raw:: html
+
+    <a href="https://twitter.com/matteojordan?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @matteojordan
+    </a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
