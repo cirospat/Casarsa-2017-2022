@@ -1,3 +1,9 @@
+
+.. _h6f635360427650203b1b567b11203e17:
+
+INTRODUZIONE AL PROGRAMMA
+#########################
+
 Cosa vogliamo
 
 Quello che vogliamo è un comune che guarda con fiducia al futuro, che non si chiude in sé stesso e nelle proprie paure ma che è pronto a raccogliere nuove sfide; un comune a misura di famiglia, solidale e inclusivo, che guarda con orgoglio alle proprie tradizioni e alla propria storia ma che è pronto a rinnovarsi e a proiettarsi nel futuro. Un comune dove la sostenibilità non è solo uno slogan, ma è lo stile che ispira tutte le azioni pubbliche. Un comune che valorizza le persone e le loro capacità non all’insegna dell’io, ma del noi e della comunità. Un comune dove le cose si fanno e si decidono insieme, un comune dove si sta bene e si cresce insieme agli altri.
