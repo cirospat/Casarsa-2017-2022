@@ -1,46 +1,20 @@
+Cosa vogliamo
 
-.. _h6865385d774156921c744940621825:
+Quello che vogliamo è un comune che guarda con fiducia al futuro, che non si chiude in sé stesso e nelle proprie paure ma che è pronto a raccogliere nuove sfide; un comune a misura di famiglia, solidale e inclusivo, che guarda con orgoglio alle proprie tradizioni e alla propria storia ma che è pronto a rinnovarsi e a proiettarsi nel futuro. Un comune dove la sostenibilità non è solo uno slogan, ma è lo stile che ispira tutte le azioni pubbliche. Un comune che valorizza le persone e le loro capacità non all’insegna dell’io, ma del noi e della comunità. Un comune dove le cose si fanno e si decidono insieme, un comune dove si sta bene e si cresce insieme agli altri.
 
-COME AMMINISTREREMO
-###################
+In cosa crediamo
 
-.. _h2f4217294c7d5763515767315878671d:
+Crediamo nella legalità, nei valori fondamentali della democrazia, del rispetto delle libertà individuali, del pluralismo e della partecipazione. Crediamo nella partecipazione attiva dei cittadini e ci ispiriamo agli ideali della pace, della solidarietà, del volontariato, dell’accoglienza, dell’equità. Nell’ottica della sussidiarietà riteniamo che ogni cittadina e ogni cittadino possa concorrere alla costruzione del bene comune.
 
-PROCESSO PARTECIPATO
-********************
+Come amministreremo
 
-coinvolgimento dei cittadini nelle scelte che riguardano il futuro di Casarsa. Nei prossimi anni sarà infatti necessario compiere delle scelte importanti e non sempre facili: sviluppo del territorio, urbanistica, opere pubbliche, viabilità, sostegno ai servizi sociali, alle istituzioni scolastiche, alle associazioni, alle attività produttive e alle realtà cooperative. Tali scelte andranno operate solo dopo aver condiviso tematiche e possibili soluzioni con i cittadini, con le associazioni e con gli operatori che quotidianamente si trovano a lavorare sul nostro territorio. Utili in questo senso potranno essere i “Forum dei cittadini”, previsti dall'art. 68 dello Statuto Comunale. 
+Ci confronteremo costantemente con la gente e privilegeremo il dialogo; quando saremo chiamati a decidere lo faremo nell’interesse della collettività. Vogliamo che la partecipazione sia al centro della nostra azione politica: i cittadini devono essere messi a parte delle scelte amministrative e devono poter esprimere la propria opinione, anche con strumenti di codecisione. In questo senso va valorizzato l’apporto di tutti, in particolare dell’Osservatorio Sociale, delle associazioni, del mondo del volontariato, delle aggregazioni giovanili. Vogliamo riproporre le assemblee della cittadinanza, al fine di metterla a parte dei progetti politici e amministrativi più importanti. Continueremo a organizzare tavoli di confronto con le associazioni sportive e culturali, le istituzioni educative e gli operatori economici, al fine di condividere il percorso di crescita del territorio.
 
-Nei confronti delle associazioni il principio da adottare è quello della sussidiarietà, al fine di ottimizzare le risorse e coinvolgere nei processi decisionali e realizzativi il volontariato.
+Lavoreremo in rete con gli altri Comuni, soprattutto con quelli dell’Unione Territoriale Intercomunale Tagliamento: la recente riforma regionale degli locali presenta delle lacune ed è sicuramente perfettibile, ma è anche un’opportunità di non poco conto per lo sviluppo del nostro territorio. Il compito che ci prefiggiamo è quello di riuscire a cogliere queste opportunità e, attraverso la condivisione di alcune funzioni, riuscire ad ottimizzare i servizi, efficientare i costi della macchina organizzativa e massimizzare le ricadute positive su cittadini e territorio.
 
-.. _h69171850782515723e49627417:
+Amministreremo con competenza: nel corso degli ultimi cinque anni abbiamo potuto acquisire esperienze e conoscenze approfondite in tema di gestione della macchina amministrativa comunale che intendiamo mettere a frutto, al servizio della comunità. Sono tante le progettualità in corso che con noi potrebbero proseguire speditamente ed essere realizzate in tempi brevi.
 
-TRASPARENZA E SOBRIETÀ
-**********************
-
-comunicazione continua e diretta con il cittadino, trasparenza nei processi amministrativi e decisionali. Il fine che guiderà l'azione delle istituzioni comunali sarà quello di assicurare la sostenibilità economica e ambientale del Comune e di rispondere ai bisogni dei cittadini e al benessere della comunità, all’insegna della sobrietà nell’utilizzo delle risorse pubbliche. 
-
-\ |STYLE0|\ 
-
-.. _h234435d4237177ff26b663b411b6b:
-
-OTTIMIZZAZIONE DELL’AMMINISTRAZIONE
-***********************************
-
-Il Comune deve aprirsi quanto più possibile alla gente ed essere in grado di dare risposte in tempi brevi e certi alle richieste dei cittadini. I dipendenti municipali sono una risorsa a servizio della cittadinanza: è importante che essi siano motivati e coinvolti. Andrà periodicamente monitorato il livello di efficienza della struttura organizzativa comunale ed approntati interventi migliorativi, anche attraverso la formazione, l'aggiornamento e la valorizzazione delle competenze dei dipendenti.
-
-CREAZIONE DI RETI
-
-Ricerca di collaborazione con i Comuni limitrofi e con gli altri Enti coinvolti nel governo e nella gestione del territorio, ai fini di cooperare al suo sviluppo sostenibile. Creazione e sviluppo di reti, soprattutto nel settore dei servizi sociali, dell'urbanistica, viabilità ed infrastrutture, della tutela dell'ambiente, della cultura e del turismo, del sostegno alle attività produttive.
-
-Sostegno alla creazione e al rafforzamento di reti di cittadinanza attiva, nell’ottica dell’auto-organizzazione dei cittadini.
-
-SICUREZZA E LEGALITÀ
-
- Cooperazione e coordinamento tra le istituzioni e le forze dell'ordine preposte al controllo del territorio e alla sicurezza (Polizia Municipale, Carabinieri, Polizia Ferroviaria). Il Comune e la Polizia Municipale non devono sostituirsi alle forze dell’ordine, ma collaborare alle complessive azioni di prevenzione. Promozione della cultura della legalità.
+Sceglieremo la sobrietà in tutte le azioni e continueremo a prodigarci per evitare gli sprechi di denaro pubblico e massimizzare i benefici di tutte le azioni intraprese. Ci adopereremo affinché gli equilibri di bilancio si trovino contenendo al minimo la pressione fiscale e tributaria sui cittadini contribuenti. Agiremo in maniera trasparente: le nuove tecnologie potranno favorire la comunicazione con i cittadini.
 
 
 .. bottom of content
-
-
-.. |STYLE0| replace:: **Implementazione del sito Internet del Comune, con la pubblicazione di tutti gli atti rilevanti, e creazione di una sezione per le segnalazioni on line di suggerimenti, problemi e disservizi.**
