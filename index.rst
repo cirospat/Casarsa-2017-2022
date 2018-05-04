@@ -58,7 +58,7 @@ Il programma amminsitrativo qui riportato, non è in realtà un semplice *"copia
 
 Infine, mi preme sottolineare come il portale qui presentanto non è frutto della mia immaginazione, ma **segue i nuovi standard grafici proposti dal Governo Italiano**, ed in particolare le nuove `Linee guida di design dei contenuti della Pubblica Amministrazione <https://designers.italia.it/guide/>`_, un insieme di regole di *design* verso cui le amminsitrazioni dovrebbero adeguarsi. Tutti i documenti formattatti secondo questi criteri, confluiscono in un portale comune per tutte le pubbliche amministrazioni italiane, chiamato `Docs Italia <https://docs.developers.italia.it/che-cos-e-docs-italia/>`_  
 
-Chinque fosse interessato a dotarsi di una piattaforma simile per digitalizzare dei documenti pubblici secondo le linee guida di Governo, può cominciare ad informarsi da `qui <http://guida-docs-italia.readthedocs.io/it/latest/index/come-partecipare.html >`_. L'idea è che *qualsiasi* documento di carattere pubblico (e naturalmente *utile* alla collettività), possa essere trasforamto in questo formato.
+Chinque fosse interessato a dotarsi di una piattaforma simile per digitalizzare dei documenti pubblici secondo le linee guida di Governo, può cominciare ad informarsi da `qui <http://guida-docs-italia.readthedocs.io/it/latest/index/come-partecipare.html>`_. L'idea è che *qualsiasi* documento di carattere pubblico (e naturalmente *utile* alla collettività), possa essere trasforamto in questo formato.
 
 
 *Buona lettura!*
