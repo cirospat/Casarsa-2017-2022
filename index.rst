@@ -72,7 +72,7 @@ Crediti e ringraziamenti
 
 Da soli non si va da nessuna parte!
 
-Per questo motivo volevo ringraziare \ |LINK9|\  (Comune di Palermo), con il quale ho condiviso diverse notti a lavorare su questa nuova piattaforma. È stata simpatica la “circolarità” della nostra collaborazione: inizialmente ho spronato Ciro a curiosare dentro a ReadTheDocs quando io lavoravo alla \ |LINK10|\  Qualche tempo dopo è stato Ciro a stimolare questo piccolo documento, dopo \ |LINK11|\  per il Comune di Palermo. Grazie Ciro! 
+Per questo motivo volevo ringraziare \ |LINK9|\  (Comune di Palermo), con il quale ho condiviso diverse notti a lavorare su questa nuova piattaforma. È stata simpatica la “circolarità” della nostra collaborazione: inizialmente ho spronato Ciro a curiosare dentro a ReadTheDocs quando io lavoravo alla \ |LINK10|\  Qualche tempo dopo è stato Ciro a spronarmi a costruire questo piccolo documento, a fronte delle \ |LINK11|\  per il Comune di Palermo. Grazie Ciro! 
 
 \ |STYLE18|\ 
 
@@ -166,5 +166,5 @@ Per questo motivo volevo ringraziare \ |LINK9|\  (Comune di Palermo), con il qua
 
 .. |LINK11| raw:: html
 
-    <a href="https://medium.com/@cirospat/pubblicare-documenti-da-google-docs-a-read-the-docs-senza-fermate-intermedie-2070001925bf" target="_blank">le sue sperimentazioni e le sue guide</a>
+    <a href="https://medium.com/@cirospat/pubblicare-documenti-da-google-docs-a-read-the-docs-senza-fermate-intermedie-2070001925bf" target="_blank">sue sperimentazioni e delle sue guide</a>
 
