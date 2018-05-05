@@ -65,6 +65,17 @@ Matteo Troìa | 5 maggio 2018
 
 |REPLACE1|
 
+.. _h3d2e57655d742659f354b54a313230:
+
+Crediti e ringraziamenti
+------------------------
+
+Da soli non si va da nessuna parte!
+
+Per questo motivo volevo ringraziare \ |LINK9|\  (Comune di Palermo), con il quale ho condiviso diverse notti a lavorare su questa nuova piattaforma. È stata simpatica la “circolarità” della nostra collaborazione: inizialmente ho spronato Ciro a curiosare dentro a ReadTheDocs quando io lavoravo alla \ |LINK10|\  Qualche tempo dopo è stato Ciro a stimolare questo piccolo documento, dopo \ |LINK11|\  per il Comune di Palermo. Grazie Ciro! 
+
+\ |STYLE18|\ 
+
 
 .. bottom of content
 
@@ -105,6 +116,8 @@ Matteo Troìa | 5 maggio 2018
 
 .. |STYLE17| replace:: **E viva la rivoluzione digitale!**
 
+.. |STYLE18| replace:: *E buona digitalizzazione a tutti!*
+
 
 .. |REPLACE1| raw:: html
 
@@ -142,4 +155,16 @@ Matteo Troìa | 5 maggio 2018
 .. |LINK8| raw:: html
 
     <a href="http://guida-docs-italia.readthedocs.io/it/latest/index/come-partecipare.html" target="_blank">qui</a>
+
+.. |LINK9| raw:: html
+
+    <a href="https://twitter.com/cirospat" target="_blank">Ciro Spataro</a>
+
+.. |LINK10| raw:: html
+
+    <a href="https://relazione-commissione-digitale.readthedocs.io/it/latest/index.html" target="_blank">Relazione della Commissione Digitale.</a>
+
+.. |LINK11| raw:: html
+
+    <a href="https://medium.com/@cirospat/pubblicare-documenti-da-google-docs-a-read-the-docs-senza-fermate-intermedie-2070001925bf" target="_blank">le sue sperimentazioni e le sue guide</a>
 
