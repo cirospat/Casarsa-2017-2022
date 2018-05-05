@@ -54,11 +54,11 @@ Il programma amministrativo qui riportato, non è in realtà un semplice \ |STYL
 
 Infine, mi preme sottolineare come il portale qui presentato non sia frutto della mia immaginazione, poiché segue i nuovi standard grafici proposti dal Governo Italiano, ed in particolare le nuove \ |LINK6|\ , un insieme di regole di \ |STYLE13|\  rispetto alle quali le amministrazioni dovrebbero adeguarsi. Tutti i documenti formattati secondo questi criteri, confluiscono in un portale comune per tutte le pubbliche amministrazioni italiane, chiamato \ |LINK7|\ 
 
-Chiunque fosse interessato a dotarsi di una piattaforma simile per digitalizzare dei documenti pubblici in questo modo, può cominciare ad informarsi da \ |LINK8|\ . L'idea è che \ |STYLE14|\  documento di carattere pubblico (che sia naturalmente \ |STYLE15|\  alla collettività), possa essere trasformato in questo formato.
+Chiunque fosse interessato a dotarsi di una piattaforma simile per digitalizzare dei documenti pubblici in questo modo, può cominciare ad informarsi da \ |LINK8|\ . Qualsiasi documento di carattere pubblico (che sia naturalmente \ |STYLE14|\  alla collettività), può essere trasformato in questo formato.
+
+\ |STYLE15|\ 
 
 \ |STYLE16|\ 
-
-\ |STYLE17|\ 
 
 Matteo Troìa | 5 maggio 2018
 
@@ -74,7 +74,7 @@ Da soli non si va da nessuna parte!
 
 Per questo motivo volevo ringraziare \ |LINK9|\  (Comune di Palermo), con il quale ho condiviso diverse notti a lavorare su questa nuova piattaforma. È stata simpatica la “circolarità” della nostra collaborazione: inizialmente ho spronato Ciro a curiosare dentro a ReadTheDocs quando io lavoravo alla \ |LINK10|\  Qualche tempo dopo è stato Ciro a spronarmi a costruire questo piccolo documento, a fronte delle \ |LINK11|\  per il Comune di Palermo. Grazie Ciro! 
 
-\ |STYLE18|\ 
+\ |STYLE17|\ 
 
 
 .. bottom of content
@@ -108,15 +108,13 @@ Per questo motivo volevo ringraziare \ |LINK9|\  (Comune di Palermo), con il qua
 
 .. |STYLE13| replace:: *design*
 
-.. |STYLE14| replace:: *qualsiasi*
+.. |STYLE14| replace:: *utile*
 
-.. |STYLE15| replace:: *utile*
+.. |STYLE15| replace:: *Buona lettura!*
 
-.. |STYLE16| replace:: *Buona lettura!*
+.. |STYLE16| replace:: **E viva la rivoluzione digitale!**
 
-.. |STYLE17| replace:: **E viva la rivoluzione digitale!**
-
-.. |STYLE18| replace:: *E buona digitalizzazione a tutti!*
+.. |STYLE17| replace:: *E buona digitalizzazione a tutti!*
 
 
 .. |REPLACE1| raw:: html
