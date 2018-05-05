@@ -9,11 +9,13 @@ Programma di Casarsa della Delizia 2017-2022
 Introduzione
 ************
 
-Quello che segue è il Programma Amministrativo per il quinquennio 2017-2022 dell'attuale Amministrazione Comunale di Casarsa della Delizia. Tale programma, è stato interamente ripreso dal sito \ |LINK1|\ , che ne riporta il testo completo.
+Quello che segue è il \ |STYLE0|\  Tale programma, è stato interamente ripreso dal sito \ |LINK1|\ , che ne riporta il testo completo.
 
-Il lettore che dovesse notare qualche errore nella documentazione qui riportata è pregato di segnalarlo a questa \ |LINK2|\ .
+Al di sotto dell'indice \ |STYLE1|\ , che è da considerarsi frutto di una libera interpretazione estetica dell'autore, e non ha al momento alcun valore istituzionale.
 
-Al di sotto dell'indice sono riportate le motivazioni di questo lavoro, che è da considerarsi frutto di una libera interpretazione estetica dell'autore, e non ha al momento alcun valore istituzionale.
+..  Note:: 
+
+    Il lettore che dovesse notare qualche errore nella documentazione qui riportata è pregato di segnalarlo a questa \ |LINK2|\ .
 
 
 .. toctree::  
@@ -28,30 +30,35 @@ Al di sotto dell'indice sono riportate le motivazioni di questo lavoro, che è d
     cap5
     cap6
 
+.. _h2c1d74277104e41780968148427e:
+
+
+
+
 .. _h44756cf1831b642d7c6c633e78564d:
 
 Le motivazioni di questo lavoro
 -------------------------------
 
-Caro lettore o cara lettrice di questo documento, mi chiamo \ |LINK3|\  e sono l'autore di questo piccolo lavoro. Di che si tratta? Non è altro che un \ |STYLE0|\  del Programma Amministrativo del mio comune sul portale ReadTheDocs, il portale dal quale stai leggendo queste parole.
+Caro lettore o cara lettrice di questo documento, mi chiamo \ |LINK3|\  e sono l'autore di questo piccolo lavoro. Di che si tratta? Non è altro che un \ |STYLE2|\  del Programma Amministrativo del mio comune sul portale ReadTheDocs, il portale dal quale stai leggendo queste parole.
 
-L'idea di trasferire il programma amministrativo su questo portale, nasce da un \ |LINK4|\  scritto dai ragazzi del \ |LINK5|\ , organo di Governo deputato alla digitalizzazione del nostro Paese. In questo post, l'invito è quello di \ |STYLE1|\ 
+L'idea di trasferire il programma amministrativo su questo portale, nasce da un \ |LINK4|\  scritto dai ragazzi del \ |LINK5|\ , organo di Governo deputato alla digitalizzazione del nostro Paese. In questo post, l'invito è quello di \ |STYLE3|\  Per questo motivo, ho deciso di sperimentare questo strumento, a beneficio della mia comunità.
 
-Qualche mese fa, trovandomi a Roma per lavoro, ho avuto l'occasione di collaborare con una squadra di \ |STYLE2|\ : persone specializzate nella scrittura di documenti tecnici. Ciò che ho imparato da loro, mescolato al rigore scientifico a cui sono abituato in ambito accademico, mi ha spinto a costruire questo piccolo "manufatto".
+Qualche mese fa, trovandomi a Roma per lavoro, ho avuto l'occasione di collaborare con una squadra di \ |STYLE4|\ : persone specializzate nella scrittura di documenti tecnici. Ciò che ho imparato da loro, mescolato al rigore scientifico a cui sono abituato in ambito accademico, mi ha spinto a costruire questo piccolo "manufatto".
 
-Credo che vada nella direzione giusta, ovvero verso una Pubblica Amministrazione \ |STYLE3|\  moderna, \ |STYLE4|\  efficace, \ |STYLE5|\  al passo coi tempi.
+Credo che vada nella direzione giusta, ovvero verso una Pubblica Amministrazione \ |STYLE5|\  moderna, \ |STYLE6|\  efficace, \ |STYLE7|\  al passo coi tempi.
 
-Il programma amministrativo qui riportato, non è in realtà un semplice \ |STYLE6|\ , ma diventa un "testo vivo", una sorta di sito web navigabile. Il lettore infatti, potrà sfruttare il motore di ricerca incorporato per cercare determinati termini, oppure potrà direttamente spostarsi nella specifica sezione di suo interesse. Non solo: il portale è \ |STYLE7|\ , ed è quindi capace di adattarsi a qualsiasi dispositivo con cui si accede a questo documento.
+Il programma amministrativo qui riportato, non è in realtà un semplice \ |STYLE8|\ , \ |STYLE9|\  Il lettore infatti, potrà sfruttare il motore di ricerca incorporato per cercare determinati termini, oppure potrà direttamente spostarsi nella specifica sezione di suo interesse. Non solo: il portale è \ |STYLE10|\ , ed è quindi capace di adattarsi a qualsiasi dispositivo con cui si accede a questo documento.
 
-L'idea è quindi quella di accelerare la trasformazione digitale della mia Pubblica Amministrazione, mostrando come si possa, con pochi e relativamente semplici passaggi, trasformare un programma amministrativo dimenticato in chissà quale nodo della rete, in un luogo di confronto continuo e di comunicazione costante con i cittadini, che tramite questo portale possono reperire facilmente le informazioni (ed eventualmente anche interagire sui singoli punti del programma).
+\ |STYLE11|\ , mostrando come si possa, con pochi e relativamente semplici passaggi, trasformare un programma amministrativo dimenticato in chissà quale nodo della rete, \ |STYLE12|\ 
 
-Infine, mi preme sottolineare come il portale qui presentanto non sia frutto della mia immaginazione, poiché segue i nuovi standard grafici proposti dal Governo Italiano, ed in particolare le nuove \ |LINK6|\ , un insieme di regole di \ |STYLE8|\  rispetto alle quali le amministrazioni dovrebbero adeguarsi. Tutti i documenti formattati secondo questi criteri, confluiscono in un portale comune per tutte le pubbliche amministrazioni italiane, chiamato \ |LINK7|\ 
+Infine, mi preme sottolineare come il portale qui presentato non sia frutto della mia immaginazione, poiché segue i nuovi standard grafici proposti dal Governo Italiano, ed in particolare le nuove \ |LINK6|\ , un insieme di regole di \ |STYLE13|\  rispetto alle quali le amministrazioni dovrebbero adeguarsi. Tutti i documenti formattati secondo questi criteri, confluiscono in un portale comune per tutte le pubbliche amministrazioni italiane, chiamato \ |LINK7|\ 
 
-Chiunque fosse interessato a dotarsi di una piattaforma simile per digitalizzare dei documenti pubblici in questo modo, può cominciare ad informarsi da \ |LINK8|\ . L'idea è che \ |STYLE9|\  documento di carattere pubblico (che sia naturalmente \ |STYLE10|\  alla collettività), possa essere trasformato in questo formato.
+Chiunque fosse interessato a dotarsi di una piattaforma simile per digitalizzare dei documenti pubblici in questo modo, può cominciare ad informarsi da \ |LINK8|\ . L'idea è che \ |STYLE14|\  documento di carattere pubblico (che sia naturalmente \ |STYLE15|\  alla collettività), possa essere trasformato in questo formato.
 
-\ |STYLE11|\ 
+\ |STYLE16|\ 
 
-\ |STYLE12|\ 
+\ |STYLE17|\ 
 
 Matteo Troìa | 5 maggio 2018
 
@@ -62,31 +69,41 @@ Matteo Troìa | 5 maggio 2018
 .. bottom of content
 
 
-.. |STYLE0| replace:: *"copia&incolla"*
+.. |STYLE0| replace:: **Programma Amministrativo per il quinquennio 2017-2022 dell'attuale Amministrazione Comunale di Casarsa della Delizia.**
 
-.. |STYLE1| replace:: *"cambiare il linguaggio attraverso cui si costruiscono le linee guida e la documentazione dei progetti della Pubblica Amministrazione".*
+.. |STYLE1| replace:: **sono riportate le motivazioni di questo lavoro**
 
-.. |STYLE2| replace:: *tech writer*
+.. |STYLE2| replace:: *"copia&incolla"*
 
-.. |STYLE3| replace:: *realmente*
+.. |STYLE3| replace:: *"cambiare il linguaggio attraverso cui si costruiscono le linee guida e la documentazione dei progetti della Pubblica Amministrazione".*
 
-.. |STYLE4| replace:: *realmente*
+.. |STYLE4| replace:: *tech writer*
 
 .. |STYLE5| replace:: *realmente*
 
-.. |STYLE6| replace:: *"copia&incolla"*
+.. |STYLE6| replace:: *realmente*
 
-.. |STYLE7| replace:: *responsive*
+.. |STYLE7| replace:: *realmente*
 
-.. |STYLE8| replace:: *design*
+.. |STYLE8| replace:: *"copia&incolla"*
 
-.. |STYLE9| replace:: *qualsiasi*
+.. |STYLE9| replace:: **ma un "testo vivo", una sorta di sito web navigabile.**
 
-.. |STYLE10| replace:: *utile*
+.. |STYLE10| replace:: *responsive*
 
-.. |STYLE11| replace:: *Buona lettura!*
+.. |STYLE11| replace:: **L'idea è quindi quella di accelerare la trasformazione digitale della mia Pubblica Amministrazione**
 
-.. |STYLE12| replace:: **E viva la rivoluzione digitale!**
+.. |STYLE12| replace:: **in un luogo di confronto continuo e di comunicazione costante con i cittadini, che tramite questo portale possono reperire facilmente le informazioni (ed eventualmente anche interagire sui singoli punti del programma).**
+
+.. |STYLE13| replace:: *design*
+
+.. |STYLE14| replace:: *qualsiasi*
+
+.. |STYLE15| replace:: *utile*
+
+.. |STYLE16| replace:: *Buona lettura!*
+
+.. |STYLE17| replace:: **E viva la rivoluzione digitale!**
 
 
 .. |REPLACE1| raw:: html
